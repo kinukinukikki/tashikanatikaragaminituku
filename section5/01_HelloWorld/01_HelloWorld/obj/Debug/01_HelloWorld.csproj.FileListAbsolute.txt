@@ -1,0 +1,9 @@
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\bin\Debug\01_HelloWorld.exe.config
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\bin\Debug\01_HelloWorld.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\bin\Debug\01_HelloWorld.pdb
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.csprojResolveAssemblyReference.cache
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\obj\Debug\_01_HelloWorld.Form1.resources
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\obj\Debug\_01_HelloWorld.Properties.Resources.resources
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.GenerateResource.Cache
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.pdb

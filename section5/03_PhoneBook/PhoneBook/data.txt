@@ -1,0 +1,6 @@
+﻿            Ichiro Yamada,xxx-123-4567
+            Jiro Yamada, xxx-234-5678
+            Sabro Yamada,xxx-345-6789
+            Yasuo Tanaka,xxx-987-6541
+            Yasuki Tanaka,xxx-997-6641
+			Ohno Kai,xxx-555-6666

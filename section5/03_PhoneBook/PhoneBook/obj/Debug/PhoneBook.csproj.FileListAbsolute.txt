@@ -1,0 +1,12 @@
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\03_PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\03_PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\03_PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

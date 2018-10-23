@@ -1,0 +1,9 @@
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\bin\Debug\TexCalc.exe.config
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\bin\Debug\TexCalc.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\bin\Debug\TexCalc.pdb
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\obj\Debug\TexCalc.csprojResolveAssemblyReference.cache
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\obj\Debug\TexCalc.Form1.resources
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\obj\Debug\TexCalc.Properties.Resources.resources
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\obj\Debug\TexCalc.csproj.GenerateResource.Cache
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\obj\Debug\TexCalc.exe
+D:\programming\C#\確かな力が身につくC#「超」入門\section5\TexCalc\TexCalc\obj\Debug\TexCalc.pdb
