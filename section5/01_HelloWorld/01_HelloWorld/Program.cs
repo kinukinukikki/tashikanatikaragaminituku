@@ -9,7 +9,7 @@ namespace _01_HelloWorld
     static class Program
     {
         /// <summary>
-        /// アプリケーションのメイン エントリ ポイントです。
+        /// This is the main entory point.
         /// </summary>
         [STAThread]
         static void Main()
