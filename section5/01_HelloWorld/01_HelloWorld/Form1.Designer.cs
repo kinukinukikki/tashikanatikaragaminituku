@@ -34,9 +34,10 @@
             // 
             // helloButton
             // 
-            this.helloButton.Location = new System.Drawing.Point(114, 176);
+            this.helloButton.Location = new System.Drawing.Point(152, 220);
+            this.helloButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.helloButton.Name = "helloButton";
-            this.helloButton.Size = new System.Drawing.Size(112, 43);
+            this.helloButton.Size = new System.Drawing.Size(149, 54);
             this.helloButton.TabIndex = 0;
             this.helloButton.Text = "click!!!";
             this.helloButton.UseVisualStyleBackColor = true;
@@ -44,20 +45,22 @@
             // 
             // helloLabel
             // 
-            this.helloLabel.Location = new System.Drawing.Point(112, 85);
+            this.helloLabel.Location = new System.Drawing.Point(149, 106);
+            this.helloLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.helloLabel.Name = "helloLabel";
-            this.helloLabel.Size = new System.Drawing.Size(114, 23);
+            this.helloLabel.Size = new System.Drawing.Size(152, 29);
             this.helloLabel.TabIndex = 1;
-            this.helloLabel.Text = "??????";
+            this.helloLabel.Text = "Look below";
             this.helloLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(338, 291);
+            this.ClientSize = new System.Drawing.Size(451, 364);
             this.Controls.Add(this.helloLabel);
             this.Controls.Add(this.helloButton);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
